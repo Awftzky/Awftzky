@@ -2,6 +2,10 @@
 
 ![Aufa Azzaky](Assets/github-header-image.png)
 
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Awftzky.Awftzky&left_text=MY%20VISITORS"  />
+</div>
+
 ##### Find me on!
 
 <p align="center">
@@ -35,4 +39,10 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Awftzky&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Awftzky/Awftzky/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Awftzky/Awftzky/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Awftzky/Awftzky/output/pacman-contribution-graph.svg">
+</picture>
 
