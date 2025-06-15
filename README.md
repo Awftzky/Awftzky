@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-  - 📖 I’m currently learning **Swift programming language** , Also **SwiftUI Framework!**  
+- 📖 I’m currently learning **Swift programming language** , Also **SwiftUI Framework!**  
 
  - 📩 if you want to reach me : **aufaazzakyarief@gmail.com**
 
- ![Thank You!](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExejUycWtwOXRpamZubXYyNHh6ejJtdGJveTlmdTF4ZjJjcjNxZmthbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/eIZXzelbpAWrTOuwwt/giphy.gif)[text](vscode-file://vscode-app/Applications/Visual%20Studio%20Code.app/Contents/Resources/app/out/vs/code/electron-sandbox/workbench/workbench.html)
+ ![Thank You!](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExejUycWtwOXRpamZubXYyNHh6ejJtdGJveTlmdTF4ZjJjcjNxZmthbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/eIZXzelbpAWrTOuwwt/giphy.gif)
