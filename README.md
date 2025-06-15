@@ -1,22 +1,11 @@
-## Helloo! , I'm Aufa Azzaky 👋
+## Helloo! , I'm Aufa Azzaky 😄
 
-<!--
-**Awftzky/Awftzky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Aufa Azzaky](Assets/github-header-image.png)
 
-Here are some ideas to get you started:
+#### My language!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![My Skills](https://skillicons.dev/icons?i=swift,java)](https://skillicons.dev)
 
-- 📖 I’m currently learning **Swift programming language** , Also **SwiftUI Framework!**  
+#### 📱 Find me on!
 
- - 📩 if you want to reach me : **aufaazzakyarief@gmail.com**
-
- ![Thank You!](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExejUycWtwOXRpamZubXYyNHh6ejJtdGJveTlmdTF4ZjJjcjNxZmthbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/eIZXzelbpAWrTOuwwt/giphy.gif)
+[![Instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/awftzky/) &nbsp; [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/aufa-azzaky/)
