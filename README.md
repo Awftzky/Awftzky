@@ -1,4 +1,4 @@
-## Hi there 👋
+## Helloo! , I'm Aufa Azzaky 👋
 
 <!--
 **Awftzky/Awftzky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+  - 📖 I’m currently learning **Swift programming language** , Also **SwiftUI Framework!**  
+
+ - 📩 if you want to reach me : **aufaazzakyarief@gmail.com**
+
+ ![Thank You!](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExejUycWtwOXRpamZubXYyNHh6ejJtdGJveTlmdTF4ZjJjcjNxZmthbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/eIZXzelbpAWrTOuwwt/giphy.gif)
