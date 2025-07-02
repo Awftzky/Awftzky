@@ -1,10 +1,6 @@
 ## Have a nice day! ⛅️
 
-![Aufa Azzaky](Assets/github-header-image.png)
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Awftzky.Awftzky&left_text=MY%20VISITORS"  />
-</div>
+![Aufa Azzaky](Assets/Banner.jpeg)
 
 ##### Find me on!
 
