@@ -28,6 +28,8 @@
   <img src="https://skillicons.dev/icons?i=swift" alt="Swift" />
   &nbsp;
   <img src="https://skillicons.dev/icons?i=java" alt="Java" />
+    &nbsp;
+  <img src="https://skillicons.dev/icons?i=flutter" alt="Flutter" />
 </p>
 
 ##### GitHub Stats:
