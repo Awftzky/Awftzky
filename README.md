@@ -30,6 +30,10 @@
   <img src="https://skillicons.dev/icons?i=java" alt="Java" />
     &nbsp;
   <img src="https://skillicons.dev/icons?i=flutter" alt="Flutter" />
+     &nbsp;
+    <img src="https://skillicons.dev/icons?i=kotlin" alt="Kotlin" />
+     &nbsp;
+      <img src="https://skillicons.dev/icons?i=cpp" alt="C++" />
 </p>
 
 ##### GitHub Stats:
