@@ -25,7 +25,7 @@
 #####  Tech Stack:
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=swift" alt="Swift" />
+  <img src="https://skillicons.dev/icons?i=cpp" alt="C++" />
   &nbsp;
   <img src="https://skillicons.dev/icons?i=java" alt="Java" />
     &nbsp;
@@ -33,7 +33,8 @@
      &nbsp;
     <img src="https://skillicons.dev/icons?i=kotlin" alt="Kotlin" />
      &nbsp;
-      <img src="https://skillicons.dev/icons?i=cpp" alt="C++" />
+      <img src="https://skillicons.dev/icons?i=swift" alt="Swift" />
+
 </p>
 
 ##### GitHub Stats:
