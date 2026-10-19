@@ -27,6 +27,10 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=apple" alt="Apple Developer" />
   &nbsp;
+  <img src="https://skillicons.dev/icons?i=figma" alt="Figma" />
+  &nbsp;
+  <img src="https://skillicons.dev/icons?i=firebase" alt="Firebase" />
+  &nbsp;
   <img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" />
   &nbsp;
   <img src="https://skillicons.dev/icons?i=java" alt="Java" />
@@ -34,7 +38,6 @@
   <img src="https://skillicons.dev/icons?i=kotlin" alt="Kotlin" />
   &nbsp;
   <img src="https://skillicons.dev/icons?i=flutter" alt="Flutter" />
-
 </p>
 
 ##### GitHub Stats:
