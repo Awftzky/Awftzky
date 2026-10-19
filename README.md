@@ -25,15 +25,16 @@
 #####  Tech Stack:
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=swift" alt="Github"/>
-        &nbsp;
+  <img src="https://skillicons.dev/icons?i=apple" alt="Apple Developer" />
+  &nbsp;
+  <img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" />
+  &nbsp;
   <img src="https://skillicons.dev/icons?i=java" alt="Java" />
-      &nbsp;
-        <img src="https://skillicons.dev/icons?i=swift" alt="Typescript"/>
-        &nbsp;
-          <img src="https://skillicons.dev/icons?i=flutter" alt="Kotlin" />
-             &nbsp;
-              <img src="https://skillicons.dev/icons?i=kotlin" alt="Flutter" />                  
+  &nbsp;
+  <img src="https://skillicons.dev/icons?i=kotlin" alt="Kotlin" />
+  &nbsp;
+  <img src="https://skillicons.dev/icons?i=flutter" alt="Flutter" />
+
 </p>
 
 ##### GitHub Stats:
