@@ -39,7 +39,7 @@
   &nbsp;
   <img src="https://skillicons.dev/icons?i=flutter" alt="Flutter" />
   &nbsp;
-  <img src="https://skillicons.dev/icons?i=reactjs" alt="ReactJs" />
+  <img src="https://skillicons.dev/icons?i=react" alt="ReactJs" />
   &nbsp;
   <img src="https://skillicons.dev/icons?i=nestjs" alt="NestJs" />
 </p>
