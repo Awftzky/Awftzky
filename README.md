@@ -39,7 +39,9 @@
   &nbsp;
   <img src="https://skillicons.dev/icons?i=flutter" alt="Flutter" />
   &nbsp;
-  <img src="https://skillicons.dev/icons?i=nextjs" alt="NextJs" />
+  <img src="https://skillicons.dev/icons?i=reactjs" alt="ReactJs" />
+  &nbsp;
+  <img src="https://skillicons.dev/icons?i=nestjs" alt="NestJs" />
 </p>
 
 ##### GitHub Stats:
